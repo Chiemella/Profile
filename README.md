@@ -1,2 +1,1 @@
-# my-profile
-Personal documentary.
+# Personal documentary.
